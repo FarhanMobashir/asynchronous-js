@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "company": "99designs",
+        "phone": "444-555-6666"
+    },
+    {
+        "id": 2,
+        "name": "Steve Smith",
+        "company": "Google",
+        "phone": "444-555-6666"
+    },
+    {
+        "id": 3,
+        "name": "Dave Barnes",
+        "company": "Microsoft",
+        "phone": "444-555-6666"
+    },
+    {
+        "id": 4,
+        "name": "Charles Munger",
+        "company": "Amazon",
+        "phone": "444-555-6666"
+    }
+]
